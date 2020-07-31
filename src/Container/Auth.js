@@ -61,7 +61,7 @@ class Auth extends Component {
 
                <div className={classes.AuthFormContainer}>
 
-                   <h4>Welcome! test</h4>
+                   <h4>Welcome!</h4>
                    <h2>Join The Community</h2>
 
                    <form onSubmit={this.onSubmitHandler} className={classes.AuthForm}>
