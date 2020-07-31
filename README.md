@@ -1,6 +1,8 @@
-## React Playground Sign Up Screen
+## React Playground – Sign Up Screen 🔑
 
-In the project directory, you can run:
+Hey all! 👋
+
+I wanted to share with you a simple Sign Up Screen created as a part of "React Playground" - my endeavour to learn React.
 
 ### `npm start`
 
