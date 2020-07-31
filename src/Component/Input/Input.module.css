@@ -1,0 +1,52 @@
+.InputWrapper{
+    margin: 24px 0;
+    display: block;
+}
+
+.Label{
+    font-size: 12px;
+    font-weight: 16px; 
+    font-weight: 500;
+    color: #212429;
+}
+
+.InputGroup {
+    position: relative;
+    display: flex; 
+    align-items: center;
+    margin: 8px 0;
+}
+
+.Input {
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #D8D8D8;
+    border-radius: 24px;
+    height: 40px; 
+    padding-left: 36px; 
+    color: #212429;
+}
+
+.InputGroup span {
+    position: absolute;
+    height: 16px;
+    left: 12px; 
+}
+
+.Input::placeholder{
+    font-size: 12px;
+    font-weight: 16px; 
+    font-weight: 500;
+    color: #98989E;
+}
+
+.Input:focus{
+    border: 1px solid #3183FF;
+    width: 100%;
+    outline:none;
+}
+
+.InputError:focus{
+    border: 1px solid #E7414C;
+    outline:none;
+}

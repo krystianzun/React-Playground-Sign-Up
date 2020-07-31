@@ -1,0 +1,68 @@
+@import '/node_modules/react-modern-normalize/modern-normalize.css';
+@import url('https://rsms.me/inter/inter.css');
+
+html { font-family: 'Inter', sans-serif; }
+
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
+
+
+body {
+  margin: 0;
+    font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6, button {
+  font-family: 'Inter', sans-serif;
+}
+
+h1 {
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+}
+
+h4 {
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 500;
+}
+
+.body-1 {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 500;
+}
+
+.body-2 {
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 500;
+}
+
+.small {
+  font-size: 9x;
+  line-height: 12px;
+  font-weight: 500;
+}
+
+
+a {
+  font-family: 'Inter', sans-serif;  
+  text-decoration: none;
+}
