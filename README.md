@@ -4,7 +4,7 @@ Hey all! 👋
 
 I wanted to share with you a simple Sign Up Screen created as a part of "React Playground" - my endeavour to learn React.
 
-Feel free to check it out in [Figma Community](../) where you can find the designs along with the design system. 
+Feel free to check it out in [Figma Community](https://www.figma.com/community/file/871047474416090189/React-Playground-%E2%80%93-Sign-Up-Screen-%F0%9F%94%91) where you can find the designs along with the design system. 
 
 Huge thanks to Adhithya for creating a [fantastic React sign-up app tutorial](https://www.adhithyakumar.com/blog-posts/react-for-designers-creating-a-simple-login-screen) based on which I could create this project! 
 
