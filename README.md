@@ -8,7 +8,7 @@ Feel free to check it out in [Figma Community](../) where you can find the desig
 
 Huge thanks to Adhithya for creating a [fantastic React sign-up app tutorial](https://www.adhithyakumar.com/blog-posts/react-for-designers-creating-a-simple-login-screen) based on which I could create this project! 
 
-![alt text](https://i.imgur.com/nw1bO5g.png)
+![alt text](https://i.imgur.com/LEntIvu.png)
 
 
 ## Available Scripts
